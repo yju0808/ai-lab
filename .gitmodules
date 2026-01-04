@@ -1,3 +1,3 @@
-[submodule "ml-deep-learning-study"]
-	path = ml-deep-learning-study
-	url = https://github.com/yju0808/self-study-machine-learning-and-deep-learning.git
+[submodule "hg-mldl"]
+	path = hg-mldl
+	url = https://github.com/yju0808/hg-mldl.git
