@@ -1,3 +1,6 @@
 [submodule "hg-mldl"]
 	path = hg-mldl
 	url = https://github.com/yju0808/hg-mldl.git
+[submodule "tiny-coding-agent"]
+	path = tiny-coding-agent
+	url = https://github.com/yju0808/tiny-coding-agent.git
