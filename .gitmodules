@@ -7,3 +7,6 @@
 [submodule "aws-sagemaker-bedrock-tutorial"]
 	path = aws-sagemaker-bedrock-tutorial
 	url = https://github.com/yju0808/aws-sagemaker-bedrock-tutorial.git
+[submodule "langgraph-tutorial"]
+	path = langgraph-tutorial
+	url = https://github.com/yju0808/langgraph-tutorial.git
