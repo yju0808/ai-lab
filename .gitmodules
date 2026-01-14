@@ -4,3 +4,6 @@
 [submodule "tiny-coding-agent"]
 	path = tiny-coding-agent
 	url = https://github.com/yju0808/tiny-coding-agent.git
+[submodule "aws-sagemaker-bedrock-tutorial"]
+	path = aws-sagemaker-bedrock-tutorial
+	url = https://github.com/yju0808/aws-sagemaker-bedrock-tutorial.git
